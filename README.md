@@ -1,2 +1,2 @@
 # PPNC_observations
-PPNC
+Code to implement comsological observables for the PPNC expansion.
